@@ -1,4 +1,8 @@
 # Medical Claim Analysis with Power BI
+
+See the interactive report here - https://app.powerbi.com/view?r=eyJrIjoiODBhNDFiNGItNWQ1Mi00NDE4LWE4OGUtNjBiN2RjN2ZhM2I1IiwidCI6ImVjZWZiYjY2LWU1NzEtNGEwNC1hZDM3LTgyNDkyZWRlYzg2MCIsImMiOjEwfQ%3D%3D
+
+
 ## 🎯 Objective
 
 To demonstrate how Power BI dashboards can transform medical claims data into actionable insights by analyzing claims, denials, financial performance, and procedure costs — enabling healthcare organizations to improve efficiency, reduce revenue leakage, and make informed decisions.
